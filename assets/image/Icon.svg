@@ -1,0 +1,42 @@
+<svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="44" height="44" fill="#F2F2F2"/>
+<g id="01" clip-path="url(#clip0_0_1)">
+<rect width="414" height="896" transform="translate(-30 -838)" fill="#F9F9F9"/>
+<g id="Item">
+<g id="Image">
+<circle id="Mask" cx="11" cy="-2" r="27" fill="#D8D8D8"/>
+<mask id="mask0_0_1" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-16" y="-29" width="54" height="54">
+<circle id="Mask_2" cx="11" cy="-2" r="27" fill="white"/>
+</mask>
+<g mask="url(#mask0_0_1)">
+</g>
+</g>
+</g>
+<g id="Tab Men&#195;&#188;">
+<g id="Rectangle" filter="url(#filter0_d_0_1)">
+<rect x="-30" y="-14" width="414" height="72" fill="white"/>
+</g>
+<g id="Icon">
+<circle id="Oval" cx="22" cy="22" r="22" fill="#5632FB"/>
+<g id="home">
+<path id="Path" fill-rule="evenodd" clip-rule="evenodd" d="M13 19L22 12L31 19V30C31 31.1046 30.1046 32 29 32H15C13.8954 32 13 31.1046 13 30V19Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Path_2" d="M19 32V22H25V32" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_0_1" x="-78" y="-60" width="510" height="168" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="24"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.04 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape"/>
+</filter>
+<clipPath id="clip0_0_1">
+<rect width="414" height="896" fill="white" transform="translate(-30 -838)"/>
+</clipPath>
+</defs>
+</svg>
